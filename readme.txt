@@ -9,8 +9,6 @@ Yulu zones are located at all the appropriate locations (including metro station
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
 
-How you can help here?
-
 The company wants to know:
 
 Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
@@ -34,4 +32,5 @@ humidity: humidity
 windspeed: wind speed
 casual: count of casual users
 registered: count of registered users
+
 count: count of total rental bikes including both casual and registered
